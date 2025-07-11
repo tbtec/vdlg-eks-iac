@@ -1,4 +1,4 @@
-AWS_BUCKET_TERRAFORM=videoligeiro-tf-danilo
+AWS_BUCKET_TERRAFORM=tremligeiro-tc4-tf
 
 tf-init:
 	@cd tf \

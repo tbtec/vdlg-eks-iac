@@ -21,5 +21,5 @@ variable "azs" {
 variable "role_eks" {
   type        = string
   description = "Role for EKS Cluster"
-  default = "arn:aws:iam::458397709109:role/LabRole"
+  default = "arn:aws:iam::000047597454:role/LabRole"
 }
